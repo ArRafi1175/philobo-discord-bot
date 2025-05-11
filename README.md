@@ -71,4 +71,11 @@ Your bot is now running and ready to use in your server!
 
 
 MADE BY RAIKI
-Make sure to give me credit if you plan to use it
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this code with proper attribution.
+
+
