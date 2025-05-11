@@ -37,35 +37,42 @@ You can check by running this in your terminal:
 
 ```bash
 node -v
-
 ```
+
 If it's not installed, download and install it from nodejs.org.
 
 2. 📁 Download the Project
 If you're using Git:
-
+```bash
 git clone https://github.com/ArRafi1175/philobo-discord-bot.git
 cd philobo-discord-bot
+```
 
 Or just download the ZIP from GitHub and extract it.
 
 3. 📦 Install Dependencies
 In the project folder, open your terminal and run:
+```bash
 npm install
+```
 
-4. 🔐 Add Your Discord Bot Token
+5. 🔐 Add Your Discord Bot Token
 Create a file named .env in the root of the project folder.
-
 Inside the .env file, add your bot token like this:
+```bash
 DISCORD_TOKEN=your_bot_token_here
+```
 
 5. ▶️ Start the Bot
 Run this command in your terminal:
+```bash
 node index.js
-
+```
 You should see something like:
+```bash
 ✅ Logged in as Philobo#1234
 ✅ Slash commands registered.
+```
 
 Your bot is now running and ready to use in your server!
 
